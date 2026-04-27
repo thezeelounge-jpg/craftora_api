@@ -1,5 +1,0 @@
-.env
-firebase_credentials.json
-__pycache__/
-generated_pdfs/
-*.pyc
